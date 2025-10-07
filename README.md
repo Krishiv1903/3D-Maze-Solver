@@ -33,12 +33,12 @@ It supports **cube** and **sphere shell mazes**, offers both **first-person** an
 │── assets/                # (Optional) textures, icons, etc.
 │── README.md              # Documentation
 
-
+```
 ---
 
-## 🚀 Getting Started  
+### 🚀 Getting Started  
 
-1. Clone the repository  
+### 1. Clone the repository  
 ```bash
 git clone https://github.com/yourusername/3d-maze-visualizer.git
 cd 3d-maze-visualizer
